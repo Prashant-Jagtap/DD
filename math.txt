@@ -15,3 +15,7 @@ def multiply(x,y):
 #divide
 def divide(x,y):
     pass
+
+#cube 
+def cube(x):
+    return x*x*x
